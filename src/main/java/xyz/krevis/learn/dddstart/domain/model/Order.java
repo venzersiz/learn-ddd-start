@@ -1,4 +1,4 @@
-package xyz.krevis.learndddstart.domain.model;
+package xyz.krevis.learn.dddstart.domain.model;
 
 import java.util.List;
 
@@ -51,6 +51,7 @@ public class Order {
 
     }
 
+    // 도메인 모델 엔터티는 도메인 기능도 함께 제공
     public void changeShippingInfo(ShippingInfo newShippingInfo) {
         verifyNotYetShipped();
         setShippingInfo(newShippingInfo);

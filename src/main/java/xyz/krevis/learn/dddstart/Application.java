@@ -1,4 +1,4 @@
-package xyz.krevis.learndddstart;
+package xyz.krevis.learn.dddstart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

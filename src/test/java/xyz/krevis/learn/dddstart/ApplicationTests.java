@@ -1,4 +1,4 @@
-package xyz.krevis.learndddstart;
+package xyz.krevis.learn.dddstart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

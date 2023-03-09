@@ -1,4 +1,4 @@
-package xyz.krevis.learndddstart.domain.model;
+package xyz.krevis.learn.dddstart.domain.model;
 
 public class Receiver {
 
